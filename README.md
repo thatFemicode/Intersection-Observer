@@ -1,4 +1,4 @@
-# Intersection Observer Experiment
+<!-- # Intersection Observer Experiment
 
 Experiment application using the Intersection Observer API with React Refs API and React Hooks.
 
@@ -11,4 +11,4 @@ The application provides a side bar that indicates the current scroll position. 
 ```
 yarn
 yarn start
-```
+``` -->
