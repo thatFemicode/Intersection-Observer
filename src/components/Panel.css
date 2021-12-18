@@ -1,0 +1,7 @@
+.panel-container {
+  height: 100vh;
+  width: 100%;
+  font-size: 20rem;
+  text-align: center;
+  line-height: 100vh;
+}
